@@ -1,3 +1,6 @@
 V1--This file is created for git pull in local repository.
 
 V3--This is version 3 for master branch and this is will create merge conflict for dev1 branch
+
+V2--This is the version 2 and the changes are done to create merge conflict.
+
