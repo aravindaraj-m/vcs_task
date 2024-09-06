@@ -1,0 +1,7 @@
+This is the first version of this file will be used for Git stash.
+
+This is the second version of this file to be used for Git stash.
+
+This is the third version of this file to be used for Git Stash.
+
+This is the fourth version of this file to be used for Git Stash.
